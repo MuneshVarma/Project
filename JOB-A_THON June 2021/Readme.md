@@ -1,9 +1,9 @@
 # JOB-A-THON June 2021
 ## Table of Contents
 - [Overview](#Overview)
-- [Problem Statement](#Problem Statement)
+- [Problem Statement](#Problem-Statement)
 - [Methodology](#Methodology)
-- [Technologgy used](#Technology Used)
+- [Technology used](#Technology-Used)
 - [Result](#Result)
 - [Reference](#Reference)
 
