@@ -8,4 +8,5 @@ This repository includes my Machine Learning and Deep Learning projects.
   * [Predict set of employees in need of medical treatment](https://github.com/MuneshVarma/Projects/tree/master/Employee%20treatment%20prediction)
 
 * ### Deep Learning Projects.
+  * [Footwear Classification](https://github.com/MuneshVarma/Projects/tree/master/Footwear%20classification)
  
