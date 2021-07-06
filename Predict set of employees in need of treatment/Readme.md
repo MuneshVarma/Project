@@ -36,8 +36,8 @@ taking into account multiple attributes that are already stored in the database.
 - Python
 
 ## Result
-Employees who needed medical treatment were predicted with 74% accuracy.
-Secured 18th rank out of the total 411 participants.
+ - Employees who needed medical treatment were predicted with 74% accuracy.
+ - Secured 18th rank out of the total 411 participants.
 
 ## Reference
 [Imarticus Data Science Hackathon - May 2021](https://skillenza.com/challenge/imarticus-data-science-hackathon-may-2021)
