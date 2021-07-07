@@ -9,5 +9,5 @@ This repository includes my Machine Learning and Deep Learning projects.
 
 * ### Deep Learning Projects.
   * [Footwear Classification](https://github.com/MuneshVarma/Projects/tree/master/Footwear%20classification)
-  * [Sales Forecasting using LSTM](https://github.com/MuneshVarma/Projects/tree/master/Sales%20Forecasting)
+  * [Future Sales Forecasting using LSTM](https://github.com/MuneshVarma/Projects/tree/master/Sales%20Forecasting)
  
