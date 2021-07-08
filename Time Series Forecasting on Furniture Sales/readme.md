@@ -1,4 +1,4 @@
-# JOB-A-THON June 2021
+# Time Series Forecasting on Furniture Sales using SARIMAX
 ## Table of Contents
 - [Overview](#Overview)
 - [Problem Statement](#Problem-Statement)
