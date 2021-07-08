@@ -39,7 +39,7 @@ for the next month.
 ## Technology Used
 - Jupyter Notebook
 - Python
-- 
+
 ## Conclusion
 The model indicated that sales is low at the beginning which increases gradually throughout the year and then decreases again at year end.
 
