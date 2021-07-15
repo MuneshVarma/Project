@@ -9,7 +9,8 @@ This repository includes my Machine Learning and Deep Learning projects.
   * [Time Series Forecasting using SARIMAX](https://github.com/MuneshVarma/Projects/tree/master/Time%20Series%20Forecasting%20using%20SARIMAX)
   * [Predict buying behaviour of customers using ensemble models](https://github.com/MuneshVarma/Projects/tree/master/Predict%20buying%20behaviour%20using%20ensemble%20models)
   * [Predict Subscription to Bank Term Deposits](https://github.com/MuneshVarma/Projects/tree/master/Predict%20Subscription%20to%20Bank%20Term%20Deposits)
-
+  * [Anomaly detection using PCA](https://github.com/MuneshVarma/Projects/tree/master/Anomaly%20detection%20uisng%20PCA)
+ 
 * ### Deep Learning Projects.
   * [Footwear Classification](https://github.com/MuneshVarma/Projects/tree/master/Footwear%20classification)
   * [Future Sales Forecasting using LSTM](https://github.com/MuneshVarma/Projects/tree/master/Sales%20Forecasting)
