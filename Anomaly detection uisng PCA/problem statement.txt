@@ -1,0 +1,22 @@
+# Anomaly detection
+An oil and gas company with several offshore platforms is experimenting with anomaly detection on one
+of its platforms. An analyst has provided you with sample data for the pilot platform
+( anomaly_detection.csv ). The data is a time series dataset, consisting of average daily readings from 5
+sensors between 01/01/2016 and 12/30/2016. You can assume that data preprocessing (filling missing
+values, scaling, etc) has been handled by the analyst. You can also assume that the daily readings are
+independent and identically distributed.
+
+The analyst has reviewed operation notes for the first 9 months (01/01/2016 to 09/30/2016) and
+identified that there were issues on the platform between 02/14/2016 and 02/21/2016. The analyst did
+not have time to review the final 3 months of data.
+
+Use the first 9 months of data (01/01/2016 to 09/30/2016) to develop an anomaly detection model and
+test it on the final 3 months of data (10/01/2016 to 12/30/2016). How many anomalous periods were
+identified in the test period between 10/01/2016 and 12/30/2016? Only report anomalies that last
+longer than 2 days. Additionally, if an anomaly lasts for longer than 14 days, we consider that behavior
+to be the new normal, and we do not report it.
+
+Hint: There are multiple potential approaches to solving this problem. One acceptable solution to this
+problem is to train a PCA model on normal data. Given new data, risk can be computed as the difference
+between the input data and reconstructed data, where reconstructed data is the result of compressing
+and decompressing the input data using PCA.
