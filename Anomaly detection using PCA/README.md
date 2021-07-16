@@ -14,8 +14,7 @@ an error is occurring, enhancing root cause analysis and quickly getting tech su
  Anomaly detection helps the monitoring cause of chaos engineering by detecting outliers, and informing the responsible parties to act.
 
 ## Problem Statement
-- [probem statement.txt](https://github.com/MuneshVarma/Projects/blob/master/Anomaly%20detection%20uisng%20PCA/problem%20statement.txt)
-
+- [probem statement.txt](https://github.com/MuneshVarma/Projects/blob/master/Anomaly%20detection%20using%20PCA/problem%20statement.txt)
 ## Methodology
 1) The data was imported using pandas.read_csv().
 2) The data is preprocessed with filled missing values and scaling already perfomed.
