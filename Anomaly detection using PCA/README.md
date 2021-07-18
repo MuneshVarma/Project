@@ -27,7 +27,7 @@ an error is occurring, enhancing root cause analysis and quickly getting tech su
 9) This loss will be maximum for anomaly readings since the principal components will not extract the information from abnormal behaviour. 
 10) To find optimum number of numbers we plot the errors for all the components. From graph we select 3 as optimum number of components.
 11) From visual inspection we selected 3 as threshold. Reconstruction errors above 3 will be treated as anomaly.
-12) PCA with components as 3 was applied on test data (last 3 months) and reconstruction loss above 3 was labelled as anomality.
+12) PCA with components as 3 was applied on test data (last 3 months) and reconstruction loss above 3 was labelled as anomaly.
 
 
 
