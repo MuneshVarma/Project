@@ -9,7 +9,7 @@
 
 
 ## Overview
-
+Deployment is the method by which you integrate a machine learning model into an existing production environment to make practical business decisions based on data. It is one of the last stages in the machine learning life cycle and can be one of the most cumbersome.
 ## Problem Statement
 
 ## Methodology
