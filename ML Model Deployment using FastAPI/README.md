@@ -14,6 +14,7 @@ Deployment is the method by which you integrate a machine learning model into an
   can be one of the most cumbersome.
   In order to start using a model for practical decision-making, it needs to be effectively deployed into production. If you cannot reliably
    get practical insights from your model, then the impact of the model is severely limited.
+   In order to get the most value out of machine learning models, it is important to seamlessly deploy them into production so a business can start using them to make practical decisions.
 ## Problem Statement
 
 ## Methodology
