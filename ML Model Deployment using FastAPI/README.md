@@ -18,7 +18,12 @@ In order to get the most value out of machine learning models, it
 is important to seamlessly deploy them into production so a business 
 can start using them to make practical decisions.
 ## Problem Statement
-
+To build a CredScore software application that gives flixibility to
+loan administrator to define parameters (features) for any loan product
+(personal loan, vehicle loan, etc.). Loan officer can access loan 
+applicant's data of a particular loan product that he/she has access and
+perform machine learning based assessment to accept or reject a loan application.
+ 
 ## Methodology
 
 ## Technology Used
