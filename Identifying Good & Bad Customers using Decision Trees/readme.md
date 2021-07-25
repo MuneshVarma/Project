@@ -1,6 +1,6 @@
-# JOB-A-THON June 2021
+# Identifying Good & Bad Customers for granting Credit using Decision Trees
 ## Table of Contents
-- [JOB-A-THON June 2021](#job-a-thon-june-2021)
+  - [Identifying Good & Bad Customers for granting Credit using Decision Trees](#identifying-good--bad-customers-for-granting-credit-using-decision-trees)
   - [Table of Contents](#table-of-contents)
   - [Overview](#overview)
   - [Problem Statement](#problem-statement)
