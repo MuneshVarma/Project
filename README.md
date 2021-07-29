@@ -12,6 +12,7 @@ This repository includes my Machine Learning and Deep Learning projects.
   * [Anomaly detection using PCA](https://github.com/MuneshVarma/Projects/tree/master/Anomaly%20detection%20using%20PCA)
   * [ML Model Deployment using FASTAPI](https://github.com/MuneshVarma/Projects/tree/master/ML%20Model%20Deployment%20using%20FastAPI)
   * [Identifying Good & Bad Customers for granting Credit using Decision Trees](https://github.com/MuneshVarma/Projects/tree/master/Identifying%20Good%20%26%20Bad%20Customers%20using%20Decision%20Trees)
+  * [K Means clustering from scratch](https://github.com/MuneshVarma/Projects/tree/master/K%20Means%20clustering%20from%20scratch)
 
 * ### Deep Learning Projects.
   * [Footwear Classification](https://github.com/MuneshVarma/Projects/tree/master/Footwear%20classification)
