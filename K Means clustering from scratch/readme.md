@@ -8,7 +8,7 @@
   - [Technology Used](#technology-used)
 
 ## Overview
-
+Although Inbuilt libraries provide K Means on the go, knowing how to implement it from scratch can help in better understanding of the algorithm and also during interviews.  
 ## Problem Statement
 
 ## Methodology
