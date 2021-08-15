@@ -14,6 +14,7 @@ Although Inbuilt libraries provide K Means on the go, knowing how to implement i
 Implement K means with only using numpy. The number of observations and number of clusters will be inputed by the user. Each data point will be generated randomly. The output will be a list which segregates data points based on Euclidean distance.
 
 ## Methodology
+  1)
 
 ## Technology Used
 - Jupyter Notebook
